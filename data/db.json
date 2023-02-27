@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "a8f1924e-b4ea-11ed-afa1-0242ac120002",
+      "name": "cypionat",
+      "price": 100
+    },
+    {
+      "id": "a8f19636-b4ea-11ed-afa1-0242ac120002",
+      "name": "enan",
+      "price": 110
+    },
+    {
+      "id": "a8f198de-b4ea-11ed-afa1-0242ac120002",
+      "name": "oxa",
+      "price": 220
+    },
+    {
+      "id": "a8f19abe-b4ea-11ed-afa1-0242ac120002",
+      "name": "meta",
+      "price": 60
+    },
+    {
+      "id": "a8f19ca8-b4ea-11ed-afa1-0242ac120002",
+      "name": "tura",
+      "price": 120
+    }
+  ]
+}
